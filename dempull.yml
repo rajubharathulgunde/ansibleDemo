@@ -6,4 +6,4 @@
             var: ansible_hostname
       - name: print Ubuntu Version
         debug:
-            var: ansible_distributon
+            var: ansible_distribution
